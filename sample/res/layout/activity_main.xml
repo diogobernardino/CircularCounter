@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+    
+    <com.db.circularcounter.CircularCounter
+        xmlns:meter="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/meter"
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:padding="5dp"
+        meter:range="60"
+        meter:textSize="100sp"
+        meter:textColor="#ffffff"
+        meter:metricSize="20sp"
+        meter:metricText="metric"
+	/>
+
+</RelativeLayout>
+

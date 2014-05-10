@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app">Circular Counter</string>
+    
+    <string-array name="colors">
+        <item>#004B4B</item>
+        <item>#DE9C59</item>
+        <item>#ffffff</item>
+    </string-array>
+
+</resources>

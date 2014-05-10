@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="width">10dp</dimen>
+	<dimen name="textSize">70dp</dimen>
+	<dimen name="metricSize">14dp</dimen>
+	<dimen name="metricPaddingY">25dp</dimen>
+</resources>
