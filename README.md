@@ -2,13 +2,13 @@ Circular Counter
 =============
 Circular Counter is an Android Widget I needed to implement for an application I was developing. As it could be useful to more people, I tried to make it generic enough to share and be used by others.
 
-The view shows a value in the center together with 3 bars that grow depending on the values received. Digging into code you can easily increase or decrease the number of bars.
+The view shows a value in the center together with 3 bars that grow depending on the values received. Digging into the code you can easily increase or decrease the number of bars.
 
 <a href="https://play.google.com/store/apps/details?id=com.db.circularcounterdemo">
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
-Screenshots
+Screenshot
 ----------------
 
 ![Demo Screenshot][1]
