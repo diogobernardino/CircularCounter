@@ -11,7 +11,7 @@ The view shows a value in the center together with 3 bars that grow depending on
 Screenshots
 ----------------
 
-![Demo Screenshot][5]
+![Demo Screenshot][1]
 
 
 Usage
