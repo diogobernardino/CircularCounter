@@ -8,6 +8,8 @@ The view shows a value in the center together with 3 bars that grow depending on
   <img alt="Android app on Google Play" src="https://developer.android.com/images/brand/en_app_rgb_wo_45.png" />
 </a>
 
+[![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-CircularCounter-lightgrey.svg?style=flat)](https://android-arsenal.com/details/1/842)
+
 Screenshot
 ----------------
 
